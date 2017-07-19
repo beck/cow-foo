@@ -1,0 +1,30 @@
+{
+  "name": "cow-foo",
+  "version": "1.0.0",
+  "description": "A toy cow to help demo code.",
+  "main": "cow.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beck/cow-foo.git"
+  },
+  "keywords": [
+    "test",
+    "demo",
+    "foo",
+    "cow",
+    "toy"
+  ],
+  "author": "Doug Beck <doug@douglasbeck.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beck/cow-foo/issues"
+  },
+  "homepage": "https://github.com/beck/cow-foo#readme",
+  "jshintConfig": {
+    "esversion": 6,
+    "node": true
+  }
+}
